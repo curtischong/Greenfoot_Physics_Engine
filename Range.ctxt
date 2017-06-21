@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Range
+comment0.text=\n\ Write\ a\ description\ of\ class\ Range\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=xLoc\ yLoc
+comment1.target=Range(double,\ double)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=facingLeft
+comment3.target=void\ moving(boolean)
+comment4.params=
+comment4.target=void\ checkPlatforms()
+comment5.params=
+comment5.target=void\ shoot()
+numComments=6

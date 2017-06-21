@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Teleporter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Teleporter\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Teleporter()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Teleporter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ findTarget()
+comment4.params=
+comment4.target=void\ teleport()
+comment5.params=
+comment5.target=void\ checkPlatforms()
+comment6.params=
+comment6.target=void\ attack()
+numComments=7

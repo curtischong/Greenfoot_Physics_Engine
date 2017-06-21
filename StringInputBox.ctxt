@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StringInputBox
+comment0.text=\n\ Receives\ an\ input\ from\ user\ and\ shows\ what\ the\ user\ types\ in\ a\ text\ box\ as\ the\ user\ is\ typing.\ \n\ Code\ from\:\ http\://www.greenfoot.org/topics/5532\n\ @author\ N/A\n\ @version\ N/A\n
+comment1.params=word
+comment1.target=StringInputBox(java.lang.String)
+comment1.text=\n\ constructor\ class\ for\ StringInputBox\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\n\ This\ method\ sets\ the\ text\ of\ the\ box\ to\ the\ variable\ that\ is\ kept\ track\ of\ in\ the\ method.\n\ We\ also\ set\ the\ background\ colour\ and\ center\ the\ word\ in\ the\ middle\ of\ hte\ box\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ every\ ack\ we\ check\ for\ key\ presses\ and\ when\ the\ enter\ key\ is\ pressed,\ we\ send\ the\ string\ to\ the\ world\ class\ to\ see\ if\ the\ word\ has\ been\ spelled\ right\n
+numComments=4

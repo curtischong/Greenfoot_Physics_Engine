@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Entity
+comment0.text=\n\ Write\ a\ description\ of\ class\ Entity\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=amount
+comment1.target=void\ changeHealth(int)
+numComments=2

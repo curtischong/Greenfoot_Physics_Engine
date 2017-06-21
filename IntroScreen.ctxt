@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IntroScreen
+comment0.text=\n\ This\ class\ will\ display\ the\ title\ screen,\ along\ with\ buttons\ that\ direct\ the\n\ player\ to\ the\ instructions,\ story\ mode,\ and\ level\ building\ mode.\n\ \n\ @author\ Jennifer\ Ye\n\ @version\ December\ 2016\n
+comment1.params=
+comment1.target=IntroScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ IntroScreen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

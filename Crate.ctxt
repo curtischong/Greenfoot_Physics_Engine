@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Crate
+comment1.params=canMove\ xLoc\ yLoc\ width\ height\ Vxamount\ Vyamount\ Axamount\ Ayamount\ setAbsorbEnergy
+comment1.target=Crate(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ createSkin()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ destroy()
+comment5.params=width\ height
+comment5.target=void\ changeDimensions(double,\ double)
+numComments=6

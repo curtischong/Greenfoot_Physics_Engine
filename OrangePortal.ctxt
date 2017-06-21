@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OrangePortal
+comment0.text=\n\ Write\ a\ description\ of\ class\ OrangePortal\ here.\n\ \n\ @author\ Curtis\ Chong\n\ @version\ 1\n
+comment1.params=dir\ xLoc\ yLoc
+comment1.target=OrangePortal(int,\ double,\ double)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.lang.String\ getData()
+numComments=4

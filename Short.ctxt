@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Short
+comment0.text=\n\ Write\ a\ description\ of\ class\ Short\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=xloc\ yloc
+comment1.target=Short(double,\ double)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Short\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=facingLeft
+comment3.target=void\ moving(boolean)
+comment4.params=
+comment4.target=void\ checkPlatforms()
+numComments=5

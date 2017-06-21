@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BulletHit
+comment0.text=\n\ Write\ a\ description\ of\ class\ BulletHit\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=moveX\ moveY\ xLoc\ yLoc
+comment1.target=BulletHit(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ImageLabel
+comment0.text=\n\ Write\ a\ description\ of\ class\ ImageLabel\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=txt\ xLoc\ yLoc\ size1
+comment1.target=ImageLabel(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FileNameHolder
+comment0.text=\n\ Write\ a\ description\ of\ class\ FileNameHolder\ here.\n\ \n\ @author\ Curtis\ Chong\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=FileNameHolder(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

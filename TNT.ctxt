@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TNT
+comment1.params=xLoc\ yLoc\ Vxamount\ Vyamount\ Axamount\ Ayamount\ setAbsorbEnergy\ timer
+comment1.target=TNT(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ toggleColor()
+comment3.params=
+comment3.target=double\ returnFuse()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ explode()
+numComments=6

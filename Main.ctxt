@@ -1,0 +1,40 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Write\ a\ description\ of\ class\ Main\ here.\n\ \n\ @author\ Jennifer\ Ye\n\ @version\ December\ 2016\n\ \n
+comment1.params=
+comment1.target=Main()
+comment10.params=
+comment10.target=void\ UI()
+comment11.params=
+comment11.target=int\ returnHeroX()
+comment12.params=
+comment12.target=int\ returnHeroY()
+comment13.params=
+comment13.target=boolean\ returnHeroDirection()
+comment14.params=
+comment14.target=void\ spawnEnemy()
+comment15.params=
+comment15.target=void\ spawnPickup()
+comment16.params=
+comment16.target=void\ randPlatform()
+comment17.params=image
+comment17.target=void\ ChangeMouseImage(greenfoot.GreenfootImage)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ checkGameOver()
+comment5.params=objectList\ classType
+comment5.target=void\ moveActors(java.util.List,\ int)
+comment5.text=private\ void\ clickedExit(){\n\n\ \ \ \ if(Greenfoot.mouseClicked(null))\n\ \ \ \ {\n\ \ \ \ MouseInfo\ mouse\ \=\ Greenfoot.getMouseInfo();\n\ \ \ \ System.out.println("Mouse\ X\:"\ +\ mouse.getX());\n\ \ \ \ System.out.println("Mouse\ Y\:"\ +\ mouse.getY());\n\n\ \ \ \ }\n\ \ \ \ if\ (Greenfoot.mouseClicked(exit)){\n\ \ \ \ addObject(returnMenu,\ 500,300);\n\ \ \ \ }\n\n}
+comment6.params=
+comment6.target=void\ scroll()
+comment7.params=
+comment7.target=void\ drawBackgroundImage()
+comment7.text=private\ void\ moveOrigin(int\ key){\n\ \ \ \ if\ (key\=\=1)\ {\n\ \ \ \ originX\ -\=\ scrollSpeed;\n\ \ \ \ }else\ if\ (key\=\=2)\ {\n\ \ \ \ originX\ +\=\ scrollSpeed;\n\ \ \ \ }\n\ \ \ \ key\=0;\n}
+comment8.params=
+comment8.target=int\ getOriginOffsetX()
+comment9.params=
+comment9.target=int\ getOriginOffsetY()
+numComments=18

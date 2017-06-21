@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Projectiles
+comment0.text=\n\ Projectiles\ are\ objects\ that\ fly\ across\ the\ screen\n\ \n\ @author\ Curtis\ Chong\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=greenfoot.Actor\ checkHit()
+comment2.params=
+comment2.target=void\ setRecentlyPortalled()
+comment3.params=xVal\ yVal
+comment3.target=void\ changeAbsoluteLocation(double,\ double)
+comment4.params=newVx\ newVy
+comment4.target=void\ setVelocity(double,\ double)
+comment5.params=
+comment5.target=java.util.HashMap\ returnVars()
+comment6.params=
+comment6.target=void\ moveProjectile()
+numComments=7

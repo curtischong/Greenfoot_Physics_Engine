@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Enemy1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Enemy1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=aC\ aT\ xloc\ yloc
+comment1.target=Enemy1(int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ flyToLocation()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ getNewLocation()
+comment6.params=
+comment6.target=void\ moveRight()
+comment6.text=\n\ \ \ \ //move\ right\ by\ adding\ the\ walking\ speed\n\ \ \ \ private\ void\ moveRight(){\n\n\ \ \ \ if(Vx\ <\ 3){\n\ \ \ \ //moveObject(0.1,0.0);\ \ \ \ \n\ \ \ \ applyForce(0.4,\ 0.0);\n\ \ \ \ }\n\n\ \ \ \ //applyForce(0.4,\ 0.0);\n\n\ \ \ \ //setLocation(getX()\ +\ 1,\ getY());\n\ \ \ \ }\n\n\ \ \ \ //move\ left\ by\ subtracting\ walking\ speed\n\n\ \ \ \ private\ void\ moveRight(){\n\ \ \ \ if(Vx\ <\ 3){\n\ \ \ \ moveObject(0.1,0.0);\n\ \ \ \ }\n\n\ \ \ \ //applyForce(-0.4,\ 0.0);\n\ \ \ \ //setLocation(getX()\ -\ 1,\ getY());\n\ \ \ \ }\n\ \ \ \ private\ void\ moveLeft(){\n\n\ \ \ \ if(Vx\ >\ -3){\n\ \ \ \ moveObject(-0.1,0.0);\n\ \ \ \ }\n\n\ \ \ \ //applyForce(-0.4,\ 0.0);\n\ \ \ \ //setLocation(getX()\ -\ 1,\ getY());\n\ \ \ \ }\n\n\ \ \ \ private\ void\ moveDown(){\n\n\ \ \ \ if(Vx\ <\ 3){\n\ \ \ \ moveObject(0.0,0.1);\ \ \ \n\ \ \ \ }\n\n\ \ \ \ //applyForce(0.0,\ 0.4);\n\ \ \ \ //setLocation(getX(),\ getY()+1);\n\ \ \ \ }\n\n\ \ \ \ private\ void\ moveUp(){\n\n\ \ \ \ if(Vx\ >\ -3){\n\ \ \ \ moveObject(0.0,-0.1);\ \n\ \ \ \ }\n\n\ \ \ \ //applyForce(0.0,\ -0.4);\n\ \ \ \ //setLocation(getX(),\ getY()-1);\n}
+comment7.params=
+comment7.target=void\ moveLeft()
+comment8.params=
+comment8.target=void\ moveDown()
+comment9.params=
+comment9.target=void\ moveUp()
+numComments=10

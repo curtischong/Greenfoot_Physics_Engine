@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Turret
+comment1.params=canMove\ xLoc\ yLoc\ Vxamount\ Vyamount\ Axamount\ Ayamount\ setAbsorbEnergy\ dir1\ dir2\ initFireRate\ type
+comment1.target=Turret(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.HashMap\ getData()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

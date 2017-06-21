@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bullet2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=img\ initx\ inity\ a
+comment1.target=Bullet2(java.lang.String,\ double,\ double,\ greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=collidedObj
+comment3.target=void\ hitObject(PhysicsObject)
+numComments=4

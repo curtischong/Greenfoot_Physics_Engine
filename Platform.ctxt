@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Platform
+comment1.params=portalable\ xLoc\ yLoc\ width\ height\ setAbsorbEnergy
+comment1.target=Platform(double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=newColour
+comment2.target=void\ changeColour(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=width\ height\ canPortal
+comment4.target=void\ changeDimensions(double,\ double,\ java.lang.String)
+numComments=5

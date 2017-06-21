@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FileName
+comment0.text=\n\ Write\ a\ description\ of\ class\ FileName\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FileName()
+comment2.params=name
+comment2.target=void\ changeName(java.lang.String)
+numComments=3
